@@ -21,16 +21,12 @@ a:link{
 a:visited{
     font-size:medium;
     font-family: Verdana;
-    color: lightcoral
+    color: navy
 }
 a:hover{
     font-size: medium;
     font-family: Verdana;
-    color: green
-
-
-
-
+    color: darkorchid
 }
 img{
 
@@ -42,8 +38,25 @@ img{
     text-align: center;
     font-size: medium;
     font-family: Verdana,sans-serif;
+    background-color: darkgoldenrod;
 }
 #Artykuł{
     text-align: center;
     font-size: medium;
+    background-color: brown;
+}
+.Lucyfer{
+    height: 250px;
+    width: 300px;
+
+}
+#Artykuł2{
+    background-color: green;
+    text-align: center;
+    
+}
+.BreakingBad{
+
+    height: 250px;
+    width: 350px;
 }
