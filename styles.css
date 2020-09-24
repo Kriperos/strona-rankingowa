@@ -1,0 +1,49 @@
+body
+{
+    background-color:gray;
+    font-size: medium;
+    font-family: Verdana;
+    
+    color: white;
+}
+h1
+{
+    font-style: Verdana;
+    color: khaki
+
+}
+a:link{
+    font-size: medium;
+    font-family: Verdana;
+    color : blue
+
+}
+a:visited{
+    font-size:medium;
+    font-family: Verdana;
+    color: lightcoral
+}
+a:hover{
+    font-size: medium;
+    font-family: Verdana;
+    color: green
+
+
+
+
+}
+img{
+
+    width: 250px;
+    height: 150px;
+
+}
+#Logo{
+    text-align: center;
+    font-size: medium;
+    font-family: Verdana,sans-serif;
+}
+#Artykuł{
+    text-align: center;
+    font-size: medium;
+}
